@@ -1,0 +1,24 @@
+main{
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+}
+
+.title-1{
+    font-weight: bold;
+    
+}
+.title-2{
+    font-weight: bold;
+    
+}
+.ol-3{
+    list-style-type: upper-roman;
+}
+
+.ul-2{
+    list-style-type: circle;
+}
+.ul-3{
+    list-style-type: square;
+}
